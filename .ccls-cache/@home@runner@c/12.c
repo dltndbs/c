@@ -6,7 +6,7 @@ main(){
 
   j=1;
   while(j<10){
-    printf("%d * %d = %d\n",i,j,i*j);
+    printf("%d * %d = %d\n", i,j,i*j);
     j++;
   }
 }
